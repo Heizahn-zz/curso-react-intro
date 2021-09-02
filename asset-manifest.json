@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/curso-react-intro/static/css/main.2bbc22cc.chunk.css",
+    "main.js": "/curso-react-intro/static/js/main.ed730f93.chunk.js",
+    "main.js.map": "/curso-react-intro/static/js/main.ed730f93.chunk.js.map",
+    "runtime-main.js": "/curso-react-intro/static/js/runtime-main.931486d0.js",
+    "runtime-main.js.map": "/curso-react-intro/static/js/runtime-main.931486d0.js.map",
+    "static/js/2.0dd3c734.chunk.js": "/curso-react-intro/static/js/2.0dd3c734.chunk.js",
+    "static/js/2.0dd3c734.chunk.js.map": "/curso-react-intro/static/js/2.0dd3c734.chunk.js.map",
+    "index.html": "/curso-react-intro/index.html",
+    "static/css/main.2bbc22cc.chunk.css.map": "/curso-react-intro/static/css/main.2bbc22cc.chunk.css.map",
+    "static/js/2.0dd3c734.chunk.js.LICENSE.txt": "/curso-react-intro/static/js/2.0dd3c734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931486d0.js",
+    "static/js/2.0dd3c734.chunk.js",
+    "static/css/main.2bbc22cc.chunk.css",
+    "static/js/main.ed730f93.chunk.js"
+  ]
+}
